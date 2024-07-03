@@ -6,6 +6,10 @@ This is a college project for the course "Applied Statistics for STEM" (MAT-243)
 2. Perform hypothesis testing to address an authentic problem
 3. Perform regression analysis to address an authentic problem
 
+### Role:
+
+This project is structures in a real world based scenario where I am a `data analyst` for a basketball team.
+
 #### READ FIRST:
 
 - There are some `HTML` files within each part folder that I recommend opening in a browser for better readability.
@@ -15,10 +19,6 @@ This is a college project for the course "Applied Statistics for STEM" (MAT-243)
 - [Part 1](#part-1)
 - [Part 2](#part-2)
 - [Part 3](#part-3)
-
-### Role:
-
-This project is structures in a real world based scenario where I am a `data analyst` for a basketball team.
 
 ## Part 1:
 
