@@ -12,7 +12,7 @@ This project is structures in a real world based scenario where I am a `data ana
 
 #### READ FIRST:
 
-- There are some `HTML` files within each part folder that I recommend opening in a browser for better readability.
+- The `Python` files are reference only, meaning that if you try to run them, they will not.
 
 ## Content:
 
